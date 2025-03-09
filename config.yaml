@@ -8,7 +8,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 全球直连
-    url: "https://dy.588511.xyz/api/v1/client/subscribe?token=bc7ee38d646c9b9d512f9c66ca5f2bd6"
+    url: "https://dy.588511.xyz/api/v1/client/subscribe?token=bc7ee38d646c9b9d512f9c6"
     
 # 全局配置
 port: 7890
