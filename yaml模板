@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://dy.588511.xyz/api/v1/client/subscribe?token=bc7ee38d646c9b9d512f9c66ca5f2bd6"
+    url: "机场订阅"
     type: http
     interval: 86400
     health-check:
