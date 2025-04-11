@@ -5,13 +5,17 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,zhoushuren.cloud
 DOMAIN-SUFFIX,embydata.com
 DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,image.tmdb.org
+DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,thetvdb.org
 
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,zhoushuren
+DOMAIN-KEYWORD,themoviedb
+DOMAIN-KEYWORD,thetvdb
+DOMAIN-KEYWORD,tmdb
+
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
